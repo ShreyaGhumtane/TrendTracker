@@ -1,16 +1,15 @@
-// App.js
 import React from 'react';
 import Navbar from './Components/Navbar';
 import News from './Components/News';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 export default function App() {
   return (
-    <Router>
+    <Router basename="/TrendTracker">
       <div>
         <Navbar />
         <Routes>
-        <Route path="/" element={<News key="general" country="in" category="general" />} />
+          <Route path="/" element={<News key="general" country="in" category="general" />} />
           <Route path="/business" element={<News key="business" country="in" category="business" />} />
           <Route path="/entertainment" element={<News key="entertainment" country="in" category="entertainment" />} />
           <Route path="/general" element={<News key="general" country="in" category="general" />} />
