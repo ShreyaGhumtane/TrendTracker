@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/testing-application/static/css/main.31d6cfe0.css",
-    "main.js": "/testing-application/static/js/main.210ba03b.js",
-    "static/js/787.2d385bcf.chunk.js": "/testing-application/static/js/787.2d385bcf.chunk.js",
-    "index.html": "/testing-application/index.html",
-    "main.210ba03b.js.map": "/testing-application/static/js/main.210ba03b.js.map",
-    "787.2d385bcf.chunk.js.map": "/testing-application/static/js/787.2d385bcf.chunk.js.map"
+    "main.css": "/TrendTracker/static/css/main.98a29a09.css",
+    "main.js": "/TrendTracker/static/js/main.0ffcca49.js",
+    "static/js/787.2d385bcf.chunk.js": "/TrendTracker/static/js/787.2d385bcf.chunk.js",
+    "index.html": "/TrendTracker/index.html",
+    "main.98a29a09.css.map": "/TrendTracker/static/css/main.98a29a09.css.map",
+    "main.0ffcca49.js.map": "/TrendTracker/static/js/main.0ffcca49.js.map",
+    "787.2d385bcf.chunk.js.map": "/TrendTracker/static/js/787.2d385bcf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.210ba03b.js"
+    "static/css/main.98a29a09.css",
+    "static/js/main.0ffcca49.js"
   ]
 }
